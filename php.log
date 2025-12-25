@@ -1,0 +1,196 @@
+[Tue Dec  9 19:25:23 2025] PHP 8.4.2 Development Server (http://127.0.0.1:8080) started
+[Tue Dec  9 19:25:37 2025] 127.0.0.1:34084 Accepted
+[Tue Dec  9 19:25:37 2025] 127.0.0.1:34084 [200]: HEAD /
+[Tue Dec  9 19:25:37 2025] 127.0.0.1:34084 Closing
+[Tue Dec  9 19:31:05 2025] 127.0.0.1:34774 Accepted
+[Tue Dec  9 19:31:05 2025] 127.0.0.1:34774 [200]: GET /Login.html
+[Tue Dec  9 19:31:05 2025] 127.0.0.1:34774 Closing
+[Tue Dec  9 19:31:08 2025] 127.0.0.1:34780 Accepted
+[Tue Dec  9 19:31:08 2025] 127.0.0.1:34780 [200]: GET /Enter_Phone_Number.html
+[Tue Dec  9 19:31:08 2025] 127.0.0.1:34780 Closing
+[Wed Dec 10 04:32:44 2025] 127.0.0.1:35166 Accepted
+[Wed Dec 10 04:32:44 2025] 127.0.0.1:35166 [200]: GET /wordpress/wp-admin/setup-config.php
+[Wed Dec 10 04:32:44 2025] 127.0.0.1:35166 Closing
+[Wed Dec 10 04:39:27 2025] 127.0.0.1:35344 Accepted
+[Wed Dec 10 04:39:27 2025] 127.0.0.1:35344 [200]: GET /
+[Wed Dec 10 04:39:27 2025] 127.0.0.1:35344 Closing
+[Wed Dec 10 04:39:33 2025] 127.0.0.1:35350 Accepted
+[Wed Dec 10 04:39:33 2025] 127.0.0.1:35350 [200]: GET /
+[Wed Dec 10 04:39:33 2025] 127.0.0.1:35350 Closing
+[Wed Dec 10 04:39:37 2025] 127.0.0.1:35352 Accepted
+[Wed Dec 10 04:39:37 2025] 127.0.0.1:35352 [200]: GET /wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:39:37 2025] 127.0.0.1:35352 Closing
+[Wed Dec 10 04:39:41 2025] 127.0.0.1:35358 Accepted
+[Wed Dec 10 04:39:41 2025] 127.0.0.1:35358 [200]: GET /xmlrpc.php?rsd
+[Wed Dec 10 04:39:41 2025] 127.0.0.1:35358 Closing
+[Wed Dec 10 04:39:45 2025] 127.0.0.1:35360 Accepted
+[Wed Dec 10 04:39:45 2025] 127.0.0.1:35360 [200]: GET /
+[Wed Dec 10 04:39:45 2025] 127.0.0.1:35360 Closing
+[Wed Dec 10 04:39:49 2025] 127.0.0.1:35366 Accepted
+[Wed Dec 10 04:39:49 2025] 127.0.0.1:35366 [200]: GET /blog/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:39:49 2025] 127.0.0.1:35366 Closing
+[Wed Dec 10 04:39:53 2025] 127.0.0.1:35368 Accepted
+[Wed Dec 10 04:39:53 2025] 127.0.0.1:35368 [200]: GET /web/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:39:53 2025] 127.0.0.1:35368 Closing
+[Wed Dec 10 04:39:57 2025] 127.0.0.1:35374 Accepted
+[Wed Dec 10 04:39:57 2025] 127.0.0.1:35374 [200]: GET /wordpress/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:39:57 2025] 127.0.0.1:35374 Closing
+[Wed Dec 10 04:40:00 2025] 127.0.0.1:35376 Accepted
+[Wed Dec 10 04:40:00 2025] 127.0.0.1:35376 [200]: GET /website/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:00 2025] 127.0.0.1:35376 Closing
+[Wed Dec 10 04:40:03 2025] 127.0.0.1:35382 Accepted
+[Wed Dec 10 04:40:03 2025] 127.0.0.1:35382 [200]: GET /wp/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:03 2025] 127.0.0.1:35382 Closing
+[Wed Dec 10 04:40:07 2025] 127.0.0.1:35384 Accepted
+[Wed Dec 10 04:40:07 2025] 127.0.0.1:35384 [200]: GET /news/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:07 2025] 127.0.0.1:35384 Closing
+[Wed Dec 10 04:40:10 2025] 127.0.0.1:35390 Accepted
+[Wed Dec 10 04:40:10 2025] 127.0.0.1:35390 [200]: GET /2020/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:10 2025] 127.0.0.1:35390 Closing
+[Wed Dec 10 04:40:14 2025] 127.0.0.1:35392 Accepted
+[Wed Dec 10 04:40:14 2025] 127.0.0.1:35392 [200]: GET /2019/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:14 2025] 127.0.0.1:35392 Closing
+[Wed Dec 10 04:40:18 2025] 127.0.0.1:35398 Accepted
+[Wed Dec 10 04:40:18 2025] 127.0.0.1:35398 [200]: GET /shop/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:18 2025] 127.0.0.1:35398 Closing
+[Wed Dec 10 04:40:22 2025] 127.0.0.1:35404 Accepted
+[Wed Dec 10 04:40:22 2025] 127.0.0.1:35404 [200]: GET /wp1/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:22 2025] 127.0.0.1:35404 Closing
+[Wed Dec 10 04:40:25 2025] 127.0.0.1:35410 Accepted
+[Wed Dec 10 04:40:25 2025] 127.0.0.1:35410 [200]: GET /test/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:25 2025] 127.0.0.1:35410 Closing
+[Wed Dec 10 04:40:29 2025] 127.0.0.1:35412 Accepted
+[Wed Dec 10 04:40:29 2025] 127.0.0.1:35412 [200]: GET /wp2/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:29 2025] 127.0.0.1:35412 Closing
+[Wed Dec 10 04:40:33 2025] 127.0.0.1:35418 Accepted
+[Wed Dec 10 04:40:33 2025] 127.0.0.1:35418 [200]: GET /site/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:33 2025] 127.0.0.1:35418 Closing
+[Wed Dec 10 04:40:36 2025] 127.0.0.1:35420 Accepted
+[Wed Dec 10 04:40:36 2025] 127.0.0.1:35420 [200]: GET /cms/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:36 2025] 127.0.0.1:35420 Closing
+[Wed Dec 10 04:40:39 2025] 127.0.0.1:35426 Accepted
+[Wed Dec 10 04:40:39 2025] 127.0.0.1:35426 [200]: GET /sito/wp-includes/wlwmanifest.xml
+[Wed Dec 10 04:40:39 2025] 127.0.0.1:35426 Closing
+[Wed Dec 10 04:41:23 2025] 127.0.0.1:35436 Accepted
+[Wed Dec 10 04:41:23 2025] 127.0.0.1:35436 [200]: GET /
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35436 Closing
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35438 Accepted
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35438 [200]: GET /
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35438 Closing
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35440 Accepted
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35440 [200]: GET /
+[Wed Dec 10 04:41:24 2025] 127.0.0.1:35440 Closing
+[Wed Dec 10 04:41:28 2025] 127.0.0.1:35442 Accepted
+[Wed Dec 10 04:41:28 2025] 127.0.0.1:35442 [200]: GET /
+[Wed Dec 10 04:41:28 2025] 127.0.0.1:35442 Closing
+[Wed Dec 10 04:41:47 2025] 127.0.0.1:35444 Accepted
+[Wed Dec 10 04:41:47 2025] 127.0.0.1:35444 [200]: GET /
+[Wed Dec 10 04:41:47 2025] 127.0.0.1:35444 Closing
+[Wed Dec 10 04:41:49 2025] 127.0.0.1:35446 Accepted
+[Wed Dec 10 04:41:49 2025] 127.0.0.1:35446 [200]: GET /
+[Wed Dec 10 04:41:49 2025] 127.0.0.1:35446 Closing
+[Wed Dec 10 05:04:39 2025] 127.0.0.1:35496 Accepted
+[Wed Dec 10 05:04:39 2025] 127.0.0.1:35496 [200]: GET /
+[Wed Dec 10 05:04:39 2025] 127.0.0.1:35496 Closing
+[Wed Dec 10 05:10:43 2025] 127.0.0.1:35502 Accepted
+[Wed Dec 10 05:10:43 2025] 127.0.0.1:35502 [200]: GET /wordpress/wp-admin/setup-config.php
+[Wed Dec 10 05:10:43 2025] 127.0.0.1:35502 Closing
+[Wed Dec 10 05:12:15 2025] 127.0.0.1:35504 Accepted
+[Wed Dec 10 05:12:15 2025] 127.0.0.1:35504 [200]: GET /wp-admin/setup-config.php
+[Wed Dec 10 05:12:15 2025] 127.0.0.1:35504 Closing
+[Wed Dec 10 05:12:44 2025] 127.0.0.1:35514 Accepted
+[Wed Dec 10 05:12:44 2025] 127.0.0.1:35514 [200]: GET /
+[Wed Dec 10 05:12:44 2025] 127.0.0.1:35514 Closing
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35516 Accepted
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35516 [200]: GET /
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35516 Closing
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35518 Accepted
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35518 [200]: GET /
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35518 Closing
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35520 Accepted
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35520 [200]: GET /
+[Wed Dec 10 05:12:45 2025] 127.0.0.1:35520 Closing
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35956 Accepted
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35956 [200]: GET /
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35956 Closing
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35958 Accepted
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35958 [200]: GET /
+[Wed Dec 10 05:44:53 2025] 127.0.0.1:35958 Closing
+[Wed Dec 10 05:44:54 2025] 127.0.0.1:35960 Accepted
+[Wed Dec 10 05:44:54 2025] 127.0.0.1:35960 [200]: GET /
+[Wed Dec 10 05:44:55 2025] 127.0.0.1:35960 Closing
+[Wed Dec 10 05:44:58 2025] 127.0.0.1:35966 Accepted
+[Wed Dec 10 05:44:58 2025] 127.0.0.1:35966 [200]: GET /
+[Wed Dec 10 05:44:58 2025] 127.0.0.1:35966 Closing
+[Wed Dec 10 05:48:24 2025] 127.0.0.1:36084 Accepted
+[Wed Dec 10 05:48:24 2025] 127.0.0.1:36084 [200]: GET /wordpress/wp-admin/setup-config.php
+[Wed Dec 10 05:48:24 2025] 127.0.0.1:36084 Closing
+[Wed Dec 10 05:53:55 2025] 127.0.0.1:36356 Accepted
+[Wed Dec 10 05:53:55 2025] 127.0.0.1:36356 [200]: GET /
+[Wed Dec 10 05:53:55 2025] 127.0.0.1:36356 Closing
+[Wed Dec 10 06:14:57 2025] 127.0.0.1:36520 Accepted
+[Wed Dec 10 06:14:57 2025] 127.0.0.1:36520 [200]: GET /
+[Wed Dec 10 06:14:57 2025] 127.0.0.1:36520 Closing
+[Wed Dec 10 06:14:58 2025] 127.0.0.1:36522 Accepted
+[Wed Dec 10 06:14:58 2025] 127.0.0.1:36522 [200]: GET /
+[Wed Dec 10 06:14:58 2025] 127.0.0.1:36522 Closing
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36524 Accepted
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36524 [200]: GET /
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36526 Accepted
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36526 [200]: GET /
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36524 Closing
+[Wed Dec 10 06:14:59 2025] 127.0.0.1:36526 Closing
+[Wed Dec 10 06:38:53 2025] 127.0.0.1:36564 Accepted
+[Wed Dec 10 06:38:53 2025] 127.0.0.1:36564 [200]: GET /wp-admin/setup-config.php
+[Wed Dec 10 06:38:53 2025] 127.0.0.1:36564 Closing
+[Wed Dec 10 06:47:14 2025] 127.0.0.1:36628 Accepted
+[Wed Dec 10 06:47:14 2025] 127.0.0.1:36628 [200]: GET /
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36628 Closing
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36630 Accepted
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36630 [200]: GET /
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36630 Closing
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36632 Accepted
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36632 [200]: GET /
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36632 Closing
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36634 Accepted
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36634 [200]: GET /
+[Wed Dec 10 06:47:15 2025] 127.0.0.1:36634 Closing
+[Wed Dec 10 06:56:43 2025] 127.0.0.1:36662 Accepted
+[Wed Dec 10 06:56:43 2025] 127.0.0.1:36662 [200]: GET /
+[Wed Dec 10 06:56:43 2025] 127.0.0.1:36662 Closing
+[Wed Dec 10 07:10:45 2025] 127.0.0.1:36676 Accepted
+[Wed Dec 10 07:10:45 2025] 127.0.0.1:36676 [200]: GET /
+[Wed Dec 10 07:10:45 2025] 127.0.0.1:36676 Closing
+[Wed Dec 10 07:15:38 2025] 127.0.0.1:36684 Accepted
+[Wed Dec 10 07:15:38 2025] 127.0.0.1:36684 [200]: GET /wordpress/wp-admin/setup-config.php
+[Wed Dec 10 07:15:38 2025] 127.0.0.1:36684 Closing
+[Wed Dec 10 07:18:07 2025] 127.0.0.1:36686 Accepted
+[Wed Dec 10 07:18:07 2025] 127.0.0.1:36686 [200]: GET /wp-admin/setup-config.php
+[Wed Dec 10 07:18:07 2025] 127.0.0.1:36686 Closing
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36696 Accepted
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36698 Accepted
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36698 [200]: GET /
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36696 [200]: GET /
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36698 Closing
+[Wed Dec 10 07:20:26 2025] 127.0.0.1:36696 Closing
+[Wed Dec 10 07:20:27 2025] 127.0.0.1:36700 Accepted
+[Wed Dec 10 07:20:27 2025] 127.0.0.1:36700 [200]: GET /
+[Wed Dec 10 07:20:27 2025] 127.0.0.1:36700 Closing
+[Wed Dec 10 07:20:31 2025] 127.0.0.1:36702 Accepted
+[Wed Dec 10 07:20:31 2025] 127.0.0.1:36702 [200]: GET /
+[Wed Dec 10 07:20:31 2025] 127.0.0.1:36702 Closing
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37516 Accepted
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37516 [200]: GET /
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37518 Accepted
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37518 [200]: GET /
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37520 Accepted
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37520 [200]: GET /
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37516 Closing
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37518 Closing
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37520 Closing
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37522 Accepted
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37522 [200]: GET /
+[Wed Dec 10 07:49:37 2025] 127.0.0.1:37522 Closing
+[Wed Dec 10 07:57:20 2025] 127.0.0.1:37546 Accepted
+[Wed Dec 10 07:57:20 2025] 127.0.0.1:37546 [200]: GET /wp-admin/setup-config.php
+[Wed Dec 10 07:57:20 2025] 127.0.0.1:37546 Closing

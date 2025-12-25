@@ -1,0 +1,7 @@
+tunnel: 43b6c962-608a-414c-a4d4-eaa931448fd7
+credentials-file: /data/data/com.termux/files/home/.cloudflared/43b6c962-608a-414c-a4d4-eaa931448fd7.json
+
+ingress:
+  - hostname: shareprofile-userid5753briana.info
+    service: http://127.0.0.1:8080
+  - service: http_status:404
